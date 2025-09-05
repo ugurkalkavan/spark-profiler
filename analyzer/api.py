@@ -2,22 +2,21 @@ import json
 import requests
 
 class SparkRestAPI():
-    
     def __init__(self, base_url, app_id):
         self.base_url = base_url
         self.app_id = app_id
-    
+
     def get(self, endpoint: str)-> json:
         url = f"{self.base_url}/{endpoint}"
         try:
             response = requests.get(url)
             response.raise_for_status() # check response status code, if it's not 200-299 it will raise an error
         except requests.exceptions.HTTPError as err:
-             print(f"HTTP error occurred: {str(err)}") 
+            print(f"HTTP error occurred: {str(err)}")
         except requests.exceptions.RequestException as err:
-             print(f"Error occurred: {str(err)}")
+            print(f"Error occurred: {str(err)}")
         else:
-            response_json = response.json() 
+            response_json = response.json()
             return response_json
 
     def get_sql(self) -> json:

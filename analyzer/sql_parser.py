@@ -1,5 +1,5 @@
-
-
+import json
+import requests
 
 
 def get_scan_parquet_metrics(app_id: str):
@@ -16,7 +16,7 @@ def get_scan_parquet_metrics(app_id: str):
                     node_metrics = {}
                     for metric in node['metrics']:
                         node_metrics[metric['name']] = metric['value']
-                    metrics_dict[sql_id] = node_metrics    
+                    metrics_dict[sql_id] = node_metrics
         return metrics_dict
     except Exception as e:
         print(f"Error in fetching metrics: {str(e)}")
