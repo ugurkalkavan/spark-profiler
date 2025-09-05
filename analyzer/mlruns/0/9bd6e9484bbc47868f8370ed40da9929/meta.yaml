@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ugurkalkavan/EpamProjects/JupyterLab/spark-optimization/analyzer/mlruns/0/9bd6e9484bbc47868f8370ed40da9929/artifacts
+end_time: 1717793985516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bd6e9484bbc47868f8370ed40da9929
+run_name: dazzling-shad-205
+run_uuid: 9bd6e9484bbc47868f8370ed40da9929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717793770062
+status: 3
+tags: []
+user_id: ugurkalkavan

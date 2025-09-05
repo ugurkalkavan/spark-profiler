@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ugurkalkavan/EpamProjects/JupyterLab/spark-optimization/analyzer/mlruns/0/c18ca2e20b2640d18c245dca3e3d81da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c18ca2e20b2640d18c245dca3e3d81da
+run_name: dashing-fly-705
+run_uuid: c18ca2e20b2640d18c245dca3e3d81da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717794004791
+status: 1
+tags: []
+user_id: ugurkalkavan

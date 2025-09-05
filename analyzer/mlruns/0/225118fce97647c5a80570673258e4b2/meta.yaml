@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ugurkalkavan/EpamProjects/JupyterLab/spark-optimization/analyzer/mlruns/0/225118fce97647c5a80570673258e4b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 225118fce97647c5a80570673258e4b2
+run_name: legendary-finch-767
+run_uuid: 225118fce97647c5a80570673258e4b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717951359122
+status: 1
+tags: []
+user_id: ugurkalkavan

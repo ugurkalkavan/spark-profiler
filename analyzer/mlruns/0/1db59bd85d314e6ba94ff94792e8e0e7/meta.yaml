@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ugurkalkavan/EpamProjects/JupyterLab/spark-optimization/analyzer/mlruns/0/1db59bd85d314e6ba94ff94792e8e0e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1db59bd85d314e6ba94ff94792e8e0e7
+run_name: wise-ant-290
+run_uuid: 1db59bd85d314e6ba94ff94792e8e0e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717780194890
+status: 1
+tags: []
+user_id: ugurkalkavan

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ugurkalkavan/EpamProjects/JupyterLab/spark-optimization/analyzer/mlruns/0/a66fa4e4984d4b36a9bba8db6ef32fb8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a66fa4e4984d4b36a9bba8db6ef32fb8
+run_name: sincere-skink-341
+run_uuid: a66fa4e4984d4b36a9bba8db6ef32fb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718373361330
+status: 1
+tags: []
+user_id: ugurkalkavan
